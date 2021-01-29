@@ -1,0 +1,31 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+	font-family: 'Macondo Swash Caps', cursive;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+}
+
+#myCanvas{
+	border-width: 10px;
+	border-style: ridge;
+	background-color: white;
+	margin-bottom: 10px;
+}
+input{
+	margin: 10px;
+	background-color: aquamarine;
+	font-family: 'Comfortaa', cursive;
+}
+span{
+	font-family: 'Rubik', sans-serif;
+}
+button{
+	font-family: 'Nova Flat', cursive;
+	background-color: forestgreen;
+	border-width: 5px;
+	border-style: groove;
+}
